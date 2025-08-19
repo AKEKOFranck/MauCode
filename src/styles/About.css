@@ -50,7 +50,7 @@
 
 @media (max-width:767px) {
     .about_main{
-        height: 250vh;
+        height: 300vh;
          position: relative;
         gap: 20px;
         justify-content: space-around;

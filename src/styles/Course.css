@@ -61,12 +61,14 @@
 @media (max-width:767px) {
 
   .course_main{
-    height: 200vh;
+    height: 300vh;
+    position: relative;
+    gap: 50px;
   }
 
 
   .course_title{
-    top: 250px;
+    top: 300px;
     font-size: 1.2em;
   }
 
@@ -82,7 +84,7 @@
 
 @media (min-width:767px) and (max-width:1400px) {
     .course_main{
-    height: 200vh;
+    height: 300vh;
   }
 
 
