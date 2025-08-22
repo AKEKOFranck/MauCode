@@ -3,6 +3,7 @@ import Layout from '../components/Layout';
 import Home from '../pages/Home';
 import Course from '../pages/Course';
 import About from '../pages/About';
+import PY1 from '../pages/PY1';
 
 
 
@@ -22,6 +23,10 @@ const router = createBrowserRouter([
        {
         path:'/About',
         element:<About/>
+      },
+       {
+        path:'/PY1',
+        element:<PY1/>
       },
     ]
   }

@@ -10,7 +10,7 @@ export default function Course() {
     const lesson = [
         {id:1,
         image: logo1,
-        text: <Link to='' className='course_text'>
+        text: <Link to='/PY1' className='course_text'>
             python pour débutant
         </Link>,
         },
